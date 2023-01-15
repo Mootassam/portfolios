@@ -9,9 +9,9 @@ import AboutMe from "./AboutMe.js";
 import ScrollButton from "../../helpers/ScrollToTop";
 
 const About = () => {
-  document.title = "About | Catherine Mitagvaria";
+  document.title = "About | Mootassam Boughdiri";
   return (
-    <article className="about-main">
+    <article className='about-main'>
       <AboutMe />
       <Stack />
       <DownloadResume />

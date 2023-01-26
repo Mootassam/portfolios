@@ -159,7 +159,7 @@ const ProjectsData = [
     id: "nft-marketplace",
     img: nft,
     name: "NFT-marketplace",
-    stack: ["< HTML5 />", "< SCSS />", "< Javascript />"],
+    stack: ["< HTML5 />", "< CSS />", "< Javascript />"],
     src: "https://nft-marketplace-mootassam.vercel.app/",
     source: "https://github.com/Mootassam/NFT-marketplace",
     description:

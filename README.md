@@ -2,7 +2,7 @@
 
 # Personal Portfolio
 
-My personal <a href="https://catherineisonline.github.io/personal-portfolio/">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal <a href="https://mootassam.vercel.app/">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 ## Built With
 

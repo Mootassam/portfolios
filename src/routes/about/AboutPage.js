@@ -19,7 +19,6 @@ const About = () => {
       <Education />
       <Languages />
       <DownloadResume />
-      <Certifications />
       <ScrollButton />
       <Footer />
     </article>

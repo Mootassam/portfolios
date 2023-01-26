@@ -6,7 +6,8 @@ import Edgy from "../assets/images/portfolio/Edgy.jpeg";
 import RestCountries from "../assets/images/portfolio/RestCountries.jpeg";
 import Bankist from "../assets/images/portfolio/Bankist.jpeg";
 import FrontendMentorSolutions from "../assets/images/portfolio/FrontendMentorSolutions.jpeg";
-
+import Jmaity from "../assets/images/portfolio/jamaity.png";
+import huddle from "../assets/images/portfolio/huddle.png";
 const ProjectsPreviewData = [
   {
     id: "pizza-time",
@@ -67,13 +68,13 @@ const ProjectsData = [
     name: "Pizza Time",
     stack: ["< React.js />", "< CSS3 />", "< Leaflet API />"],
     src: "https://pizza-time-with-react.vercel.app/",
-    source: "https://github.com/Mootassampizza-time-with-react",
+    source: "https://github.com/Mootassam/pizza-time-with-react.git",
     description:
       "Pizza Time is a pizza restaurant that offers an online menu with various options like pizza, sushi, or pasta. The idea of this project is to make it as close as possible to an actual food e-commerce website which has features like an online menu, order options, and so on.",
   },
   {
     id: "rest-countries",
-    img: RestCountries,
+    img: huddle,
     name: "Rest Countires",
     stack: ["< RESTful API />", "< CSS3 />", "< React.js />"],
     src: "https://catherineisonline.github.io/rest-countries/",

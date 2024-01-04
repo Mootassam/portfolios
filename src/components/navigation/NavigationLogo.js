@@ -11,7 +11,9 @@ const NavigationLogo = (props) => {
         ResetLocation();
         props.closeMenu();
       }}>
+        <br></br>
       <img src={IconBlack} alt='logo'></img>
+      <br></br>
     </NavLink>
   );
 };

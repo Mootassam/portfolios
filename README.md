@@ -1,4 +1,3 @@
-<img src="https://github.com/Mootassampersonal-portfolio/blob/main/public/project-preview.png?raw=true"><img/>
 
 # Personal Portfolio
 

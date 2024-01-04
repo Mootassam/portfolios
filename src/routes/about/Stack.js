@@ -7,17 +7,36 @@ const Stack = () => {
         Here are a few tools & technologies I’ve been working with:
       </h3>
       <ol className="stack-section ">
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>Tailwind</li>
-        <li>SCSS/SASS</li>
-        <li>JavaScript ES6+</li>
-        <li>React.js</li>
-        <li>RESTful API</li>
-        <li>Github</li>
-        <li>Git</li>
-        <li>Figma</li>
-        <li>Visual Studio Code</li>
+        <li>
+          <span style={{ fontWeight: "bolder", color: "#9bb6c7" }}>
+            Frontend:
+          </span>
+          &nbsp;React.js, Next.js, CSS3, Material UI, Redux, Sass, TailwindCSS
+        </li>
+        <li>
+          <span style={{ fontWeight: "bolder", color: "#9bb6c7" }}>
+            Backend:
+          </span>
+          &nbsp;Node.js, Express.js, REST API
+        </li>
+        <li>
+          <span style={{ fontWeight: "bolder", color: "#9bb6c7" }}>
+            Databases:
+          </span>
+          &nbsp;MySQL, PostgreSQL, Firebase, MongoDB, Redise
+        </li>
+        <li>
+          <span style={{ fontWeight: "bolder", color: "#9bb6c7" }}>
+            DevOps & Tools:
+          </span>
+          &nbsp;Docker, Linux, Git, Jenkins, Webpack, Photoshop, Figma
+        </li>
+        <li>
+          <span style={{ fontWeight: "bolder", color: "#9bb6c7" }}>
+            Mobile Development:
+          </span>
+          &nbsp;React Native
+        </li>
       </ol>
     </React.Fragment>
   );

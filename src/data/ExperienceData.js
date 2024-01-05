@@ -1,10 +1,29 @@
 const ExperienceData = [
   {
     id: 1,
-    jobtitle: "Frontend Developer",
+    jobtitle: "Full Stack Developer",
     companyname: "Tadecogroup",
     worktype: "Full-time",
-    duration: "Dec 2020 - Janv 2023",
+    duration: "Mar 2023 - Present",
+    location: "UAE, Dubai",
+    responsibility: [
+      `Strong set of technical skills in React.js and related libraries such as Redux, React Router, and React Hooks.`,
+      `Proficient in HTML, CSS, and modern JavaScript (ES6+).`,
+      `Experience with developing responsive user interfaces that adapt to different screen sizes and devices, utilizing modern CSS techniques such as Flexbox and Grid.`,
+      `Familiarity with front-end build tools such as Webpack and Babel to optimize web page performance and improve developer workflow.`,
+      `Experience with testing frameworks such as Jest and Enzyme to ensure the quality and reliability of code.`,
+      `Experience with version control systems such as Git to effectively manage code changes and collaborate with team members.`,
+      `Ability to effectively design and implement user interfaces for web applications that meet the needs of clients.`,
+      `Built and deployed applications using Docker, Nginx. `,
+      `Stayed up to date with the latest web development technologies and best practices to ensure the company's web applications were at the forefront of the industry. `,
+    ],
+  },
+  {
+    id: 1,
+    jobtitle: "Web Developer",
+    companyname: "Tadecogroup",
+    worktype: "Full-time",
+    duration: "Jan 2020 - Feb 2023",
     location: "Tunis",
     responsibility: [
       `Strong set of technical skills in React.js and related libraries such as Redux, React Router, and React Hooks.`,

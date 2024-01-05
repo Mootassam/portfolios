@@ -2,12 +2,12 @@ const ExperienceData = [
   {
     id: 1,
     jobtitle: "Full Stack Developer",
-    companyname: "Tadecogroup",
+    companyname: "Four star Management Service",
     worktype: "Full-time",
     duration: "Mar 2023 - Present",
     location: "UAE, Dubai",
     responsibility: [
-      `API extraction from various sites`,
+      "Analyzing functional requirements and translating them into detailed technical specifications."`API extraction from various sites`,
       `Integration of Trading View charts for market analysis`,
       `Real-time coin prices`,
       `Dynamic sparkline charts`,
@@ -27,8 +27,9 @@ const ExperienceData = [
     companyname: "Tadecogroup",
     worktype: "Full-time",
     duration: "Jan 2020 - Feb 2023",
-    location: "Tunis",
+    location: "Tunisia",
     responsibility: [
+      "Thorough understanding and analysis of functional requirements to determine technical specifications",
       `Spearheaded the development of an innovative ecommerce module for an association, providing seamless management of physical and digital products. Integrated a robust payment system using Stripe, ensuring secure and efficient transactions.`,
       `Played a pivotal role in a significant immigration web and mobile project, empowering immigrants to assert their rights and share testimonials for assistance. Engineered a real-time notifications system and a versatile task module, enhancing admin capabilities to assign and monitor tasks across various users. Successfully integrated these modules into the mobile application.`,
       `Implemented an advanced authentication system utilizing fingerprint and facial recognition, streamlining user access without the need for repetitive password entry. Achieved a remarkable 40% reduction in application size and bundle size, optimizing overall performance.`,
@@ -43,8 +44,9 @@ const ExperienceData = [
     companyname: "Mind Engineering ",
     worktype: "Full-time",
     duration: "Jan 2019 - May 2019",
-    location: "Tunis",
+    location: "Tunisia",
     responsibility: [
+      "Comprehensive comprehension and analysis of functional requirements for the identification of technical specifications.",
       `I've worked on the development and maintenance of existing web applications using HTML, CSS, PHP, JavaScript, Ajax,`,
       `Assisted in the design and implementation of new features and
       functionality.`,
